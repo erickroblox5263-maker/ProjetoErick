@@ -1,0 +1,30 @@
+/*
+ * Arquivo: src/Portfolio.css
+ */
+
+/* Estilo padrão para o cartão de navegação (A cor padrão é amarela no texto, fundo preto) */
+.nav-card div {
+    /* Garante que a transição seja suave */
+    transition: transform 0.3s ease, border-color 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+    /* Define as cores padrão, mas o Bootstrap já faz isso (text-warning) */
+}
+
+/* Efeito ao passar o mouse (HOVER) */
+.nav-card:hover div {
+    /* Aumenta um pouco o card (destaque) */
+    transform: scale(1.05); 
+    /* Força o fundo a ser AMARELO/WARNING */
+    background-color: #ffc107 !important; 
+    /* Força o texto/ícone a ser PRETO (Melhor contraste com o amarelo) */
+    color: #212529 !important; 
+    /* Adiciona uma sombra maior */
+    box-shadow: 0 10px 20px rgba(255, 193, 7, 0.5) !important;
+}
+
+/* Garante que os ícones e títulos herdem a nova cor no hover (PRETO) */
+.nav-card:hover h4, 
+.nav-card:hover i,
+.nav-card:hover small { /* Adicionei small para a descrição */
+    color: #212529 !important; /* Cor dark */
+}
