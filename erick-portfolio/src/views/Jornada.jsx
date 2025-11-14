@@ -14,8 +14,8 @@ const Jornada = () => {
             <div className="container">
                 
                 <header className="text-center mb-5 border-bottom border-secondary pb-3">
-                    <h1 className="display-4 text-light">Minha Jornada</h1>
-                    <h2 className="text-warning">Trajetória e Aprendizado</h2>
+                    <h1 className="display-4 text-light">Mɪɴʜᴀ Jᴏʀɴᴀᴅᴀ</h1>
+                    <h2 className="text-warning">𝗧𝗿𝗮𝗷𝗲𝘁𝗼́𝗿𝗶𝗮 𝗲 𝗔𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗱𝗼</h2>
                 </header>
                 
                 <div className="row">
@@ -73,18 +73,18 @@ const Jornada = () => {
                     {/* Coluna 2: Texto Principal (col-lg-8) */}
                     <div className="col-lg-8">
                         <div className="card shadow-lg p-4 h-100 border-warning bg-secondary text-light">
-                            <h3 className="mb-4 text-warning">Minha História no Desenvolvimento</h3>
+                            <h3 className="mb-4 text-warning">𝔐𝔦𝔫𝔥𝔞 ℌ𝔦𝔰𝔱𝔬́𝔯𝔦𝔞 𝔫𝔬 𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔩𝔳𝔦𝔪𝔢𝔫𝔱𝔬</h3>
                             <p className="lead">
-                                [**Início e Inspiração:**] Aqui você descreverá quando e como começou seu interesse por programação e jogos, especialmente no ambiente Roblox.
+                                [**Iɴɪ́ᴄɪᴏ ᴇ Iɴsᴘɪʀᴀᴄ̧ᴀ̃ᴏ:**] Mᴇᴜ ɪɴᴛᴇʀᴇssᴇ ᴘᴏʀ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ᴄᴏᴍᴇᴄ̧ᴏᴜ ǫᴜᴀɴᴅᴏ ᴄᴏᴍᴇᴄᴇɪ ᴇᴜ ᴍᴇsᴍᴏ ᴀ ᴄʀɪᴀʀ ᴊᴏɢᴏs ɴᴏ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ ʀᴏʙʟᴏx, ᴄᴏᴍᴇᴄᴇɪ ᴅᴏ ᴢᴇʀᴏ ғᴀᴢᴇɴᴅᴏ ᴊᴏɢᴏs ʙᴀ́sɪᴄᴏs ᴇ ᴅᴇ ǫᴜᴀʟǫᴜᴇʀ ᴊᴇɪᴛᴏ, ᴀᴛᴇ́ ǫᴜᴇ ᴇᴜ ғᴜɪ ᴇᴠᴏʟᴜɪɴᴅᴏ ᴇ ʜᴏᴊᴇ ᴊᴀ́ ᴛᴇɴʜᴏ ᴍᴀɪs ᴅᴇ 100 ᴊᴏɢᴏs ғᴇɪᴛᴏs ɴᴏ ʀᴏʙʟᴏx sᴏ́ ᴅᴇ ʙʀɪɴᴄᴀᴅᴇɪʀᴀ ᴇ ᴛʀᴇɪɴᴏ, ғᴏɪ ᴀɪ́ ǫᴜᴇ ᴅᴇsᴄᴏʙʀɪ ᴍɪɴʜᴀ ᴘᴀɪxᴀ̃ᴏ ᴘᴏʀ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ᴇ ғᴏʀᴀᴍ 4 ᴀɴᴏs ᴄʀɪᴀɴᴅᴏ ᴊᴏɢᴏs ɴᴏ ʀᴏʙʟᴏx ǫᴜᴀɴᴅᴏ ᴄᴏɴʜᴇᴄɪ ᴀ ᴛᴇᴄʜᴇʀs ʟᴏɢᴏ ᴅᴇᴘᴏɪs ᴇ ʀᴇᴀʟᴍᴇɴᴛᴇ ᴄᴏᴍᴇᴄᴇɪ ᴀ ᴍᴇ ᴀᴘʀᴏғᴜɴᴅᴀʀ ɴɪssᴏ ᴛᴜᴅᴏ.
                             </p>
                             <p>
-                                [**Formação:**] Detalhe sua experiência na escola/curso técnico. Fale sobre as linguagens aprendidas (Lua, se for o caso), as metodologias e os desafios.
+                                [**Fᴏʀᴍᴀᴄ̧ᴀ̃ᴏ:**] Mɪɴʜᴀ ᴇxᴘᴇʀɪᴇ̂ɴᴄɪᴀ ɴᴀ ᴛᴇᴄʜᴇʀs ғᴏɪ sᴇɴsᴀᴄɪᴏɴᴀʟ, ᴅᴇsᴄᴏʙʀɪ ᴀᴏs ᴘᴏᴜᴄᴏs ᴏ ᴍᴜɴᴅᴏ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ᴇ sᴜᴀs ᴅɪᴠᴇʀsᴀs ʟɪɴɢᴜᴀɢᴇɴs ᴄᴏᴍᴏ ᴘʏᴛʜᴏɴ, ʟᴜᴀ ᴇ ᴅᴇɴᴛʀᴇ ᴏᴜᴛʀᴏs, ɴᴏ ɪɴɪ́ᴄɪᴏ ғɪǫᴜᴇɪ ᴀɴsɪᴏsᴏ ᴇ ʀᴇᴄᴇɪᴏsᴏ ᴅᴇ ᴛᴀɴᴛᴀ ᴄᴏɪsᴀ ǫᴜᴇ ᴇᴜ ᴛᴇʀɪᴀ ǫᴜᴇ ᴀᴘʀᴇɴᴅᴇʀ, ᴍᴀs ᴄᴏᴍ ᴏ ᴛᴇᴍᴘᴏ ᴘᴇʀᴄᴇʙɪ ǫᴜᴇ ɴᴀ̃ᴏ ᴇʀᴀ ᴜᴍ ʙɪxᴏ ᴅᴇ ᴄɪɴᴄᴏ ᴄᴀʙᴇᴄ̧ᴀs ᴇ sɪᴍ ᴜᴍᴀ ᴇxᴘᴇʀɪᴇ̂ɴᴄɪᴀ ᴜ́ɴɪᴄᴀ ǫᴜᴇ ʀᴇǫᴜᴇʀ ᴅᴇᴅɪᴄᴀᴄ̧ᴀ̃ᴏ ᴘᴀʀᴀ ᴀᴘʀᴇɴᴅᴇʀ, ᴀ ᴍɪɴʜᴀ ᴇsᴄᴏʟᴀ ᴍᴇ ᴀᴊᴜᴅᴏᴜ ʙᴀsᴛᴀɴᴛᴇ ᴇᴍ ʀᴇʟᴀᴄ̧ᴀ̃ᴏ ᴛᴜᴅᴏ ɪssᴏ ᴇ ᴍᴇ ᴀᴊᴜᴅᴀ ᴄᴀᴅᴀ ᴠᴇᴢ ᴍᴀɪs ᴀ ᴀʟᴄᴀɴᴄ̧ᴀʀ ᴍᴇᴜs ᴏʙᴊᴇᴛɪᴠᴏs
                             </p>
                             <p>
-                                [**Crescimento e Metas:**] Descreva como você evoluiu como desenvolvedor. Quais foram os projetos mais importantes (além dos do TCC)? Onde você espera chegar no futuro com suas habilidades?
+                                [**Cʀᴇsᴄɪᴍᴇɴᴛᴏ:**] Cᴏᴍᴇᴄᴇɪ ᴘʀᴏɢʀᴀᴍᴀɴᴅᴏ ɴᴀ ᴘʟᴀᴛᴀғᴏʀᴍᴀ Cᴏɴsᴛʀᴜᴄᴛ ᴀǫᴜɪ ɴᴀ ᴇsᴄᴏʟᴀ, ɴᴀ̃ᴏ ғᴏɪ ᴛᴀ̃ᴏ ᴅɪ́ғɪᴄɪʟ ᴊᴀ́ ǫᴜᴇ ᴇᴜ ᴛɪɴʜᴀ ᴜᴍ ᴀᴘʀᴇɴᴅɪᴢᴀᴅᴏ ʙᴀ́sɪᴄᴏ ᴀɴᴛᴇs ᴇ ᴇʀᴀ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ᴊᴀ́ ᴘʀᴏɴᴛᴀ ᴇᴍ ʙʟᴏᴄᴏs ǫᴜᴇ sᴏ́ ʙᴀsᴛᴀᴠᴀ ᴄᴏɴᴇᴄᴛᴀʀ ᴛᴏᴅᴀs ᴇʟᴀs ᴅᴇ ᴀᴄᴏʀᴅᴏ ᴄᴏᴍ ᴏ sᴇᴜ ᴏʙᴊᴇᴛɪᴠᴏ, ғᴏɪ ɴᴇsᴛᴇ ᴍᴏᴍᴇɴᴛᴏ ǫᴜᴇ ᴘᴇʀᴄᴇʙɪ ᴀ ᴅɪғᴇʀᴇɴᴄ̧ᴀ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴏ̃ᴇs ᴇ sᴇᴜs ɴɪ́ᴠᴇɪs ᴅᴇ ᴅɪғɪᴄᴜʟᴅᴀᴅᴇ. Pᴀʀᴀ ᴍɪᴍ ᴀ ᴘᴀʀᴛᴇ ᴍᴀɪs ᴅɪ́ғɪᴄɪʟ ғᴏɪ ᴀ ᴘᴀʀᴛᴇ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀʀ ᴇsᴄʀᴇᴠᴇɴᴅᴏ ᴛᴜᴅᴏ ᴅᴏ ᴢᴇʀᴏ ᴀᴘᴇɴᴀs ᴄᴏᴍ sᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ, ᴀɪɴᴅᴀ ᴇ́ ʜᴏᴊᴇ ᴇᴍ ᴅɪᴀ ᴜᴍ ᴘᴏᴜᴄᴏ ᴄᴏᴍᴘʟɪᴄᴀᴅᴏ ᴘᴀʀᴀ ᴍɪᴍ, ᴍᴀs ᴇᴜ ᴇᴠᴏʟᴜɪ ʙᴀsᴛᴀɴᴛᴇ ᴅᴇsᴅᴇ ǫᴜᴇ ᴄᴏᴍᴇᴄᴇɪ ᴇ sᴇɪ ᴍᴀɪs ᴅᴏ ǫᴜᴇ ɪɴɪᴄɪᴀʟᴍᴇɴᴛᴇ, ᴇɴᴛᴀ̃ᴏ ᴇ́ ᴛᴜᴅᴏ ǫᴜᴇsᴛᴀ̃ᴏ ᴅᴇ ᴛᴇᴍᴘᴏ.
                             </p>
                             <p>
-                                [**Texto Adicional:**] Preencha esta área com mais conteúdo para que o layout fique visualmente completo.
+                                [**Mᴇᴛᴀs:**] E ᴘᴀʀᴀ ғɪɴᴀʟɪᴢᴀʀᴍᴏs, ᴇᴜ ᴅᴇsᴇᴊᴏ sᴇʀ ᴛᴇ́ᴄɴɪᴄᴏ ᴅᴇ sɪsᴛᴇᴍᴀs ᴇ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ᴅᴇ ᴊᴏɢᴏs ғᴜᴛᴜʀᴀᴍᴇɴᴛᴇ ᴀʟᴇ́ᴍ ᴅᴇ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀ ʜᴀʙɪʟɪᴅᴀᴅᴇs ᴇxᴄᴇᴘᴄɪᴏɴᴀɪs ᴇ ᴍᴇ ᴛᴏʀɴᴀʀ ᴍᴇʟʜᴏʀ ᴀ ᴄᴀᴅᴀ ᴅɪᴀ.
                             </p>
                             
                             {/* Botão de volta para o Portfólio */}
