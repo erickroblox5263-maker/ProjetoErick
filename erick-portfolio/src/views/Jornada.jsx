@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 
 // 1. IMPORTAÇÃO DAS IMAGENS: Usando o nome do arquivo que você inseriu no assets.
 import minhaFoto from '../assets/images.jfif'; 
+import eu from '../assets/Eu.jfif'; 
 // Se a foto da escola estiver pronta, ajuste a importação (ex: import fotoEscola from '../assets/foto-escola.png';)
 
 const Jornada = () => {
@@ -28,14 +29,24 @@ const Jornada = () => {
                             
                             {/* Bloco da primeira imagem: Placeholder centralizado (Escola) */}
                             <div className="d-flex justify-content-center align-items-center bg-dark p-0" style={{ height: '250px', overflow: 'hidden' }}>
-                                <i className="bi bi-mortarboard h1 text-warning d-block my-4"></i>
-                                {/* Se a foto da escola estiver pronta, substitua <i> pela tag <img> */}
+                                <img 
+                                    src={eu} // Sua imagem importada (images.jfif)
+                                    className="img-fluid" 
+                                    alt="Foto de Perfil de Erick"
+                                    // ESTILOS PARA PREENCHER O QUADRADO
+                                    style={{ 
+                                        width: '100%', 
+                                        height: '100%', 
+                                        objectFit: 'cover' // Faz a imagem cobrir todo o espaço
+                                    }}
+                                /> 
+                                
                             </div>
                             
                             {/* CARD BODY: Texto de descrição (SEM O TÍTULO "FOTO DA MINHA ESCOLA") */}
                             <div className="card-body bg-dark border-top border-warning">
                                 <p className="card-text">
-                                    Detalhes sobre o curso técnico, as principais disciplinas e como a escola me preparou para o TCC.
+                                    Minhas motivações, paixões fora da programação e o que me inspira a desenvolver jogos.
                                 </p>
                             </div>
                         </div>
@@ -64,7 +75,7 @@ const Jornada = () => {
                             {/* CARD BODY: Texto de descrição (SEM O TÍTULO "FOTO MINHA") */}
                             <div className="card-body bg-dark border-top border-warning">
                                 <p className="card-text">
-                                    Minhas motivações, paixões fora da programação e o que me inspira a desenvolver jogos.
+                                    Detalhes sobre o curso técnico, as principais disciplinas e como a escola me preparou para o TCC.
                                 </p>
                             </div>
                         </div>
@@ -90,7 +101,7 @@ const Jornada = () => {
                             {/* Botão de volta para o Portfólio */}
                             <div className="text-center mt-auto pt-4">
                                 <Link to="/portfolio" className="btn btn-outline-warning btn-lg">
-                                    ← Voltar ao Portfólio
+                                    ←　Ｖｏｌｔａｒ　ａｏ　Ｐｏｒｔｆóｌｉｏ
                                 </Link>
                             </div>
                         </div>
