@@ -46,7 +46,7 @@ const Jornada = () => {
                             {/* CARD BODY: Texto de descrição (SEM O TÍTULO "FOTO DA MINHA ESCOLA") */}
                             <div className="card-body bg-dark border-top border-warning">
                                 <p className="card-text">
-                                    Minhas motivações, paixões fora da programação e o que me inspira a desenvolver jogos.
+                                    Eu: Minhas motivações é minha família e minha vontade de aprender a desenvolver, gosto de descobrir coisas novas e meu gosto por programação veio desde cedo por interesse.
                                 </p>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ const Jornada = () => {
                             {/* CARD BODY: Texto de descrição (SEM O TÍTULO "FOTO MINHA") */}
                             <div className="card-body bg-dark border-top border-warning">
                                 <p className="card-text">
-                                    Detalhes sobre o curso técnico, as principais disciplinas e como a escola me preparou para o TCC.
+                                    Meu curso: um ótimo curso para começar do zero e que veio me preparando desde o início da melhor forma, tenho muito a agradecer por tudo que me ensinaram e fizeram por mim.
                                 </p>
                             </div>
                         </div>
